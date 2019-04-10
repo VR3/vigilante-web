@@ -104,7 +104,7 @@ class App extends Component {
                         width="100%"
                         height="850"
                         id="gmap_canvas"
-                        src="https://maps.google.com/maps?q=universidad%20ibero&t=&z=15&ie=UTF8&iwloc=&output=embed"
+                        src="https://maps.google.com/maps?q=vr3&t=&z=15&ie=UTF8&iwloc=&output=embed"
                         frameborder="0"
                         scrolling="no"
                         marginheight="0"
